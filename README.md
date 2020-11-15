@@ -39,10 +39,18 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
    
    **以上推荐/不建议等只是个人意见，请自行选择版本，可同时使用**。
    
+   ### 【我的说明】 ###
+   * 管理员账户生成应用id、机密。
+   * 子账户生成refresh_token。
+   * 机密只显示一次，要么复制保存好，要么新增一个新的。
+   * 子账户最好在网页端激活onedrive。
+   * 步骤中用【】标注的内容是我添加的。
+   * 测试的时候，转圈圈，可能要等好久，或者尝试一下在Actions页面，重新点击Start按钮。
+   
 --------------------------------------------------------------
 
 ### 步骤 ###
-   *** **有错误/问题请看**:    [常见错误及解决办法/更新日志](https://github.com/wangziyingwen/Autoapi-test) ***   
+   *** **有错误/问题请看**:    [常见错误及解决办法/更新日志](https://github.com/wangziyingwen/Autoapi-test)【！！！！】 ***   
 
 * 第一步，先大致浏览[原教程](https://blog.432100.xyz/index.php/archives/50/)，了解如何获取应用id、机密、refresh_token 3样东西，以方便接下来的操作。
 
